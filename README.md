@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohit Singh  
 - 👀 I’m interested in Robotics 
-- 🌱 I’m currently a student researcher at @IITKANPUR
+- 🌱 I’m currently a student researcher @IITKANPUR
 - 📫 You can reach me at rohit4myself@hotmail.com
 
 <!---
